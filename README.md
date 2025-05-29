@@ -1,6 +1,17 @@
-# My Portfolio ✨
-
 Welcome to my GitHub portfolio! This repository showcases a selection of projects where I've applied data science, machine learning, and full-stack development to solve real-world problems. My passion lies in transforming data into actionable insights and building robust, user-friendly applications. 🚀
+
+---
+
+## Technical Toolkit 🛠️
+
+My projects demonstrate proficiency in:
+
+* **Programming Languages:** Python, HTML
+* **Web Frameworks/APIs:** FastAPI, Plotly Dash
+* **Databases:** MongoDB, SQL (SQLite), ChromaDB
+* **Machine Learning & AI:** TensorFlow, scikit-learn, LLM Finetuning
+* **Data Analysis & Visualization:** Jupyter Notebook, Google Colab, MS Excel, PowerPoint, PowerBI
+* **Deployment:** ngrok, tensorflow serving, Docker
 
 ---
 
@@ -53,20 +64,6 @@ Welcome to my GitHub portfolio! This repository showcases a selection of project
 **Solution:** Built an intelligent stock analysis chatbot designed to make market insights accessible and understandable. This Python project fetches real-time or historical stock data using the **Alpha Vantage API**, analyzes trends, and calculates technical indicators (e.g., SMA, RSI). Analyzed data is stored and retrieved from a **ChromaDB** instance, enabling **Retrieval-Augmented Generation (RAG)** to provide contextually relevant answers using a **Gemini language model**. The chatbot handles queries for single or multiple stocks and includes an evaluation mechanism for response quality.
 
 **Impact:** Empowers users, regardless of technical expertise, to gain insights into stock market trends and key indicators through natural language interaction. 
-
----
-
-## Technical Toolkit 🛠️
-
-My projects demonstrate proficiency in:
-
-* **Programming Languages:** Python
-* **Web Frameworks/APIs:** FastAPI, Plotly Dash
-* **Databases:** MongoDB, SQL (SQLite), ChromaDB
-* **Machine Learning & AI:** TensorFlow, GARCH Models, K-Means Clustering, Random Forest, SMOTE, PCA, Retrieval-Augmented Generation (RAG), Gemini Language Model
-* **Data Analysis & Visualization:** Jupyter Notebook, Plotly Dash
-* **Deployment:** ngrok
-* **Other Tools:** Excel, PowerPoint
 
 ---
 
