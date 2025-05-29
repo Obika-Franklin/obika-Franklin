@@ -29,7 +29,7 @@ My projects demonstrate proficiency in:
 
 ---
 
-### 2. Impact of Reminder Emails on Admissions Exam Completion Rates (A/B Testing) 📧
+### 2. [Impact of Reminder Emails on Admissions Exam Completion Rates (A/B Testing)](https://github.com/Obika-Franklin/HypothesisTesting/tree/main) 📧
 
 **Problem:** Low conversion of user registrations to exam completions in online learning platforms.
 
