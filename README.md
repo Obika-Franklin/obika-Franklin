@@ -72,6 +72,8 @@ My projects demonstrate proficiency in:
 
 Feel free to explore the individual project repositories for more in-depth details, code, and demonstrations. I'm always eager to learn and contribute to impactful projects! Let's connect! 🤝
 
+## Connect with me:
+
 [<img align="left" alt="Your Name | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/franklinobika
+``[linkedin]: https://www.linkedin.com/in/franklinobika
