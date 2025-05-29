@@ -19,7 +19,7 @@ My projects demonstrate proficiency in:
 
 ## Projects 💻
 
-### [1. Stock Volatility Forecasting System](https://github.com/Obika-Franklin/StockAnalysisAPI) 📈
+### 1. [Stock Volatility Forecasting System](https://github.com/Obika-Franklin/StockAnalysisAPI) 📈
 
 **Problem:** Financial markets demand tools for risk assessment and informed decision-making.
 
