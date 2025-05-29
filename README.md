@@ -70,10 +70,10 @@ My projects demonstrate proficiency in:
 
 ---
 
-Feel free to explore the individual project repositories for more in-depth details, code, and demonstrations. I'm always eager to learn and contribute to impactful projects! Let's connect! 🤝
+Feel free to explore the individual project repositories for more in-depth details, code, and demonstrations. I'm always eager to learn and contribute to impactful projects! 
 
-## Connect with me:
+## Let's connect! 🤝
+<a href="https://www.linkedin.com/in/franklinobika" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40">
+</a>
 
-[<img align="left" alt="Your Name | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />][linkedin]
-
-``[linkedin]: https://www.linkedin.com/in/franklinobika
