@@ -39,7 +39,7 @@ My projects demonstrate proficiency in:
 
 ---
 
-### 3. Understanding Credit Insecurity: A Data-Driven Segmentation of American Households 📊
+### 3. [Understanding Credit Insecurity: A Data-Driven Segmentation of American Households](https://github.com/Obika-Franklin/StockAnalysisChatbot/tree/main) 📊
 
 **Problem:** Identifying and understanding households facing credit insecurity.
 
