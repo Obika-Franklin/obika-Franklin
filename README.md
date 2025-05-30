@@ -11,7 +11,7 @@ My projects demonstrate proficiency in:
 * **Programming Languages:** Python, HTML
 * **Web Frameworks/APIs:** FastAPI, Plotly Dash
 * **Databases:** MongoDB, SQL (SQLite), ChromaDB
-* **Machine Learning & AI:** TensorFlow, scikit-learn, LLM Finetuning
+* **Machine Learning & AI:** TensorFlow, scikit-learn, LLM Finetuning, NLP, Computer Vision
 * **Data Analysis & Visualization:** Jupyter Notebook, Google Colab, MS Excel, PowerPoint, PowerBI
 * **Deployment:** ngrok, tensorflow serving, Docker
 
@@ -39,7 +39,7 @@ My projects demonstrate proficiency in:
 
 ---
 
-### 3. [Understanding Credit Insecurity: A Data-Driven Segmentation of American Households](https://github.com/Obika-Franklin/StockAnalysisChatbot/tree/main) 📊
+### 3. [Understanding Credit Insecurity: A Data-Driven Segmentation of American Households](https://github.com/Obika-Franklin/CreditInsecurityAnalysis) 📊
 
 **Problem:** Identifying and understanding households facing credit insecurity.
 
@@ -49,7 +49,7 @@ My projects demonstrate proficiency in:
 
 ---
 
-### 4. Predicting Structural Damage Post-Earthquake in Kavrepalanchok, Nepal 🏘️🌍
+### 4. [Predicting Structural Damage Post-Earthquake in Kavrepalanchok, Nepal](https://github.com/Obika-Franklin/BuildingDamageAnalysis/tree/main) 🏘️🌍
 
 **Problem:** The critical need to predict building damage from earthquakes for proactive disaster preparedness.
 
@@ -59,7 +59,7 @@ My projects demonstrate proficiency in:
 
 ---
 
-### 5. STOCK ANALYSIS CHATBOT 💬
+### 5. [STOCK ANALYSIS CHATBOT](https://github.com/Obika-Franklin/StockAnalysisChatbot/tree/main) 💬
 
 **Problem:** Navigating the complexities of stock market information can be challenging for many.
 
