@@ -8,12 +8,12 @@ This repository showcases a selection of projects where I've applied data scienc
 
 My projects demonstrate proficiency in:
 
-* **Programming Languages:** Python, HTML
-* **Web Frameworks/APIs:** FastAPI, Plotly Dash
-* **Databases:** MongoDB, SQL (SQLite), ChromaDB
-* **Machine Learning & AI:** TensorFlow, scikit-learn, LLM Finetuning, NLP, Computer Vision
-* **Data Analysis & Visualization:** Jupyter Notebook, Google Colab, MS Excel, PowerPoint, PowerBI
-* **Deployment:** ngrok, tensorflow serving, Docker
+*	**Programming Languages:** Python, SQL, HTML
+*	**Frameworks:** Pandas, Numpy, Matplotlib, Seaborn, TensorFlow, Scikit-Learn, FastAPI, Plotly Dash, Ngrok, Docker
+*	**Databases:** MongoDB, MySQL, SQLite, ChromaDB
+*	**Tools:** Microsoft Excel, PowerPoint, PowerBI, Jupyter Notebook, Google Colab, Kaggle Notebook, Github
+*	**Soft Skills:** Strategic Problem-Solving, Synergistic Collaboration, Excellent Time Management, Articulate Communication 
+
 
 ---
 
