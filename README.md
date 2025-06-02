@@ -1,4 +1,4 @@
-# Welcome to my GitHub Portfolio! ✨ 
+# Welcome to My GitHub Portfolio! ✨ 
 
 This repository showcases a selection of projects where I've applied data science, machine learning, and full-stack development to solve real-world problems. My passion lies in transforming data into actionable insights and building robust, user-friendly applications. 🚀
 
