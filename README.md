@@ -1,6 +1,6 @@
 # Welcome to My GitHub Portfolio! ✨ 
 
-This repository showcases a selection of projects where I've applied data science, machine learning, and full-stack development to solve real-world problems. My passion lies in transforming data into actionable insights and building robust, user-friendly applications. 🚀
+This repository showcases a selection of projects where I've applied data science, machine learning, and full-stack development to solve real-world problems. My passion lies in transforming data into actionable insights and building robust, user-friendly applications. 
 
 ---
 
@@ -19,7 +19,7 @@ My projects demonstrate proficiency in:
 
 ## Projects 💻
 
-### 1. [Stock Volatility Forecasting System](https://github.com/Obika-Franklin/StockAnalysisAPI) 📈
+### 1. [Stock Volatility Forecasting System](https://github.com/Obika-Franklin/StockAnalysisAPI) 
 
 **Problem:** Financial markets demand tools for risk assessment and informed decision-making.
 
@@ -29,7 +29,7 @@ My projects demonstrate proficiency in:
 
 ---
 
-### 2. [Impact of Reminder Emails on Admissions Exam Completion Rates (A/B Testing)](https://github.com/Obika-Franklin/HypothesisTesting/tree/main) 📧
+### 2. [Impact of Reminder Emails on Admissions Exam Completion Rates (A/B Testing)](https://github.com/Obika-Franklin/HypothesisTesting/tree/main) 
 
 **Problem:** Low conversion of user registrations to exam completions in online learning platforms.
 
@@ -39,7 +39,7 @@ My projects demonstrate proficiency in:
 
 ---
 
-### 3. [Understanding Credit Insecurity: A Data-Driven Segmentation of American Households](https://github.com/Obika-Franklin/CreditInsecurityAnalysis) 📊
+### 3. [Understanding Credit Insecurity: A Data-Driven Segmentation of American Households](https://github.com/Obika-Franklin/CreditInsecurityAnalysis) 
 
 **Problem:** Identifying and understanding households facing credit insecurity.
 
@@ -49,7 +49,7 @@ My projects demonstrate proficiency in:
 
 ---
 
-### 4. [Predicting Structural Damage Post-Earthquake in Kavrepalanchok, Nepal](https://github.com/Obika-Franklin/BuildingDamageAnalysis/tree/main) 🏘️🌍
+### 4. [Predicting Structural Damage Post-Earthquake in Kavrepalanchok, Nepal](https://github.com/Obika-Franklin/BuildingDamageAnalysis/tree/main) 
 
 **Problem:** The critical need to predict building damage from earthquakes for proactive disaster preparedness.
 
@@ -59,13 +59,23 @@ My projects demonstrate proficiency in:
 
 ---
 
-### 5. [STOCK ANALYSIS CHATBOT](https://github.com/Obika-Franklin/StockAnalysisChatbot/tree/main) 💬
+### 5. [STOCK ANALYSIS CHATBOT](https://github.com/Obika-Franklin/StockAnalysisChatbot/tree/main) 
 
 **Problem:** Navigating the complexities of stock market information can be challenging for many.
 
 **Solution:** Built an intelligent stock analysis chatbot designed to make market insights accessible and understandable. This Python project fetches real-time or historical stock data using the **Alpha Vantage API**, analyzes trends, and calculates technical indicators (e.g., SMA, RSI). Analyzed data is stored and retrieved from a **ChromaDB** instance, enabling **Retrieval-Augmented Generation (RAG)** to provide contextually relevant answers using a **Gemini language model**. The chatbot handles queries for single or multiple stocks and includes an evaluation mechanism for response quality.
 
 **Impact:** Empowers users, regardless of technical expertise, to gain insights into stock market trends and key indicators through natural language interaction. 
+
+---
+### 6. [Weather Data Analysis of Six Global Cities in 2014](https://github.com/Obika-Franklin/Weather-Data-Analysis)
+
+This project involves a comprehensive analysis of weather data collected throughout 2014 for six diverse global cities: Beijing, Brasilia, Cape Town, Delhi, London, and Moscow. By examining key meteorological parameters such as temperature, precipitation, humidity, dew point, and wind speed, we aim to uncover distinct climatic patterns, assess thermal stability, characterize precipitation regimes, understand the relationship between humidity and dew point, analyze seasonal temperature variations, and evaluate wind speed characteristics across these different geographical locations. This comparative analysis provides insights into the varied climates experienced around the world and highlights notable differences and similarities in their weather behaviors during the year 2014.
+
+---
+
+### 7. [London Heathrow Weather Analysis: Finding the Best Summer Holiday Period in 2023](https://github.com/Obika-Franklin/London_Heathrow_Weather_Analysis/tree/main)
+This project aims to identify the best two-week period for a summer holiday in 2023 based on historical weather data for London Heathrow. By analyzing various weather metrics such as temperature, precipitation, sunshine duration, and wind speed, a scoring system is developed to rank the weeks of the summer season. The goal is to leverage data analysis techniques to provide insights into favorable weather patterns and recommend optimal holiday dates.
 
 ---
 
