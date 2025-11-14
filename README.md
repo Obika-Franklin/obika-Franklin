@@ -1,6 +1,6 @@
 # Welcome to My GitHub Portfolio! ✨ 
 
-This repository showcases a selection of projects where I've applied data science, machine learning, and full-stack development to solve real-world problems. My passion lies in transforming data into actionable insights and building robust, user-friendly applications. 
+This repository showcases a selection of projects where I have applied data analysis and data science to solve real-world problems. My passion lies in transforming data into actionable insights and building robust, user-friendly applications. 
 
 ---
 
@@ -79,7 +79,20 @@ This project aimed to identify the best two-week period for a summer holiday in 
 
 ---
 
-Feel free to explore the individual project repositories for more in-depth details, code, and demonstrations. I'm always eager to learn and contribute to impactful projects! 
+### 8. [Inflow Performance Relationship (IPR) Modeling and Sensitivity Analysis in Excel](https://github.com/Obika-Franklin/IPR-Modeling-and-Sensitivity-Analysis-in-Excel)
+In this project, I developed a comprehensive, Excel-based methodology to model and analyze the Inflow Performance Relationship (IPR) for oil wells across different flow regimes. Specifically, I calculated and graphed the IPR for both linear (undersaturated) reservoirs (which follow Darcy's law) and non-linear (saturated/two-phase) reservoirs using industry-standard empirical correlations. For the linear regime, I demonstrated the impact of key variables, such as the skin factor, production time, and reservoir depletion, on the IPR curve. For the non-linear IPR, I carried out a comparative analysis between the Vogel and Fetkovich IPR equations, highlighting their differences in predicting the well's maximum potential (Absolute Open Flow or AOF) and determining which model is more reliable for real-world application using field test points.
+
+---
+
+### 9. [Exponential Decline Modeling and Production Forecasting (DCA)](https://github.com/Obika-Franklin/Exponential-Decline-Modeling-and-Production-Forecasting-DCA)
+In this project, I performed a Decline Curve Analysis (DCA) on historical production data from an onshore field to predict future production rates and estimate the field's economic lifespan. This empirical method is one of the most widely used techniques in petroleum engineering for estimating recoverable reserves. The goal was to provide a critical forecast of the field's remaining economic life and total recoverable reserves, which is essential for guiding investment and production planning.
+
+---
+
+### 10. [Comparative Analysis of Global Socio-Economic Indicators (2013)](https://github.com/Obika-Franklin/Comparative-Analysis-of-Global-Socio-Economic-Indicators-2013/tree/main)
+In this project, I performed a comparative analysis of global socio-economic indicators from 2013. The analysis utilized data retrieved from the World Bank's development indicators API, focusing on a set of key metrics including total Gross Domestic Product (GDP), GDP per capita, total population, life expectancy, the Gini index, and the unemployment rate. Before the analysis, I conducted data cleaning and preprocessing, which involved handling missing values, filtering out non-country aggregate entries, and performing unit conversions and feature engineering (specifically computing GDP per capita). The primary goal of the study was to shed light on the complex factors that contribute to a nation's overall well-being by examining the interrelationships between these various indicators.
+
+Feel free to explore the individual project repositories for more in-depth details, code, and demonstrations. I am always eager to learn and contribute to impactful projects! 
 
 ## Let's connect! 🤝
 <a href="https://www.linkedin.com/in/franklinobika" target="_blank">
