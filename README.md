@@ -92,6 +92,19 @@ In this project, I performed a Decline Curve Analysis (DCA) on historical produc
 ### 10. [Comparative Analysis of Global Socio-Economic Indicators (2013)](https://github.com/Obika-Franklin/Comparative-Analysis-of-Global-Socio-Economic-Indicators-2013/tree/main)
 In this project, I performed a comparative analysis of global socio-economic indicators from 2013. The analysis utilized data retrieved from the World Bank's development indicators API, focusing on a set of key metrics including total Gross Domestic Product (GDP), GDP per capita, total population, life expectancy, the Gini index, and the unemployment rate. Before the analysis, I conducted data cleaning and preprocessing, which involved handling missing values, filtering out non-country aggregate entries, and performing unit conversions and feature engineering (specifically computing GDP per capita). The primary goal of the study was to shed light on the complex factors that contribute to a nation's overall well-being by examining the interrelationships between these various indicators.
 
+---
+
+### 11. [Trade Flow Analysis: Nigeria’s Cocoa (2023) & UK's Milk (2014) Markets](https://github.com/Obika-Franklin/Trade_Analysis_Nigeria_and_UK/tree/main)
+In this project, I conducted an in-depth analysis of international trade data using Python’s pandas library to uncover trade patterns, identify key partners, and explore seasonal trends. The data, sourced from the United Nations Comtrade Database, focused on two case studies: Nigeria’s cocoa trade in 2023 (commodity codes 1801 and 1802) and the United Kingdom’s milk trade in 2014 (commodity code 0402). Through data cleaning, transformation, aggregation, and pivot table analysis, I examined trade balances, major trading partners, and temporal dynamics to derive clear and actionable insights from these commodity markets.
+
+---
+
+### 12. [Step-by-Step PVT Analysis for Reservoir Engineering and Excel Application](https://github.com/Obika-Franklin/PVT_Analysis_For_Reservoir_Engineering/tree/main)
+
+This project successfully demonstrated the fundamental process of converting laboratory Pressure-Volume-Temperature (PVT) data, specifically from the differential liberation experiment, into field-ready parameters, addressing Exercise 2.2 from L. P. Dake’s Fundamentals of Reservoir Engineering textbook. The analysis commenced by identifying the optimum surface separation conditions from surface separator tests, which was critical for establishing the necessary correction factors, the Shrinkage Factor ($c_{bf}$) and the Initial Solution Gas-Oil Ratio ($R_{sif}$). Utilizing these factors, the primary field PVT parameters, Oil Formation Volume Factor ($B_o$), Solution Gas-Oil Ratio ($R_s$), and Gas Formation Volume Factor ($B_g$), were calculated as a function of pressure, providing the essential input required for accurate reservoir simulations and hydrocarbon initially in place (HCIIP) calculations. Furthermore, an alternative calculation methodology was applied, converting the conventional laboratory differential parameters ($B_{od}$ and $R_{sd}$) to the field-corrected values, thereby confirming the consistency of the results and ensuring reliable data for production forecasting.
+
+---
+
 Feel free to explore the individual project repositories for more in-depth details, code, and demonstrations. I am always eager to learn and contribute to impactful projects! 
 
 ## Let's connect! 🤝
