@@ -105,6 +105,12 @@ This project successfully demonstrated the fundamental process of converting lab
 
 ---
 
+### 13. [Web Scraping with Python: A Dual Analysis on 21st Century Population Trends and Economic Powerhouses](https://github.com/Obika-Franklin/Web-Scraping-with-Python/tree/main)
+
+In this project, I explored advanced data analysis techniques to scrape data from the web and extract meaningful insights from real-world datasets. I focused on providing a detailed analysis of two distinct yet equally fascinating datasets: human population projections and the financial performance of top publicly traded companies. In the first section, I explored Human Population Projections, scraping and processing data from Wikipedia to investigate how urban populations were expected to change over the coming decades. I visualized the projected growth of major global cities, highlighting which urban centers were anticipated to become the most populous by the year 2100. In the second section, I analyzed the Top Publicly Traded Companies, gathering financial data such as revenue and market capitalization for the world's leading corporations. I identified the top performers in each category and examined the relationship between a company's revenue and market valuation through visualizations and statistical measures. This analysis provided insights into demographic trends and corporate financial landscapes.
+
+---
+
 Feel free to explore the individual project repositories for more in-depth details, code, and demonstrations. I am always eager to learn and contribute to impactful projects! 
 
 ## Let's connect! 🤝
