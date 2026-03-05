@@ -111,6 +111,12 @@ In this project, I explored advanced data analysis techniques to scrape data fro
 
 ---
 
+## 14. [Transferable Gas Production Forecasting Using Multi-Well Opera-tional Data: A Machine-Learning Based Approach](https://github.com/Obika-Franklin/gas-production-forecasting/tree/main)
+
+In this study, we propose a physics-guided data-driven modeling approach that integrates key operational parameters, such as average downhole pressure, average wellhead pressure, average wellhead temperature, and average choke size percentage, collected from multiple wells to predict gas production. By combining these physically meaningful inputs with ML techniques such as Random Forest (RF), and Long Short-Term Memory (LSTM) Neural Networks, our model is designed to capture both the dynamic behavior of gas flow and the underlying reservoir charac-teristics across diverse operational environments. A comprehensive dataset was assembled from 5 production wells in the Volve field, with each well contributing measurements of the five operational variables. 
+
+---
+
 Feel free to explore the individual project repositories for more in-depth details, code, and demonstrations. I am always eager to learn and contribute to impactful projects! 
 
 ## Let's connect! 🤝
