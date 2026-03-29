@@ -117,6 +117,12 @@ In this study, we propose a physics-guided data-driven modeling approach that in
 
 ---
 
+## 15. [Climate Data Explorer](https://github.com/Obika-Franklin/climate-data-explorer/tree/main)
+
+This project is a multi-agent climate analysis system built on Heathrow weather data. I made use of a sequential pipeline where a data agent prepares the dataset, a trend agent analyses patterns, an anomaly agent detects extreme events, and a report agent generates a structured AI summary. The system is deployed on Streamlit and uses Azure OpenAI for natural language reasoning.
+
+---
+
 Feel free to explore the individual project repositories for more in-depth details, code, and demonstrations. I am always eager to learn and contribute to impactful projects! 
 
 ## Let's connect! 🤝
